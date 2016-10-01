@@ -6,7 +6,6 @@
  * Time: 14:09
  */
 
-<?php
 echo "Test3";
 ?>
 
